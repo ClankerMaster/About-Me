@@ -10,6 +10,14 @@ I'm a Computer Science student at Southern Connecticut State University, focused
 - Currently improving my GitHub portfolio with cleaner documentation and more complete projects
 
 ## Featured Projects
+### Campus Closet
+A team-built Southern Connecticut State University student marketplace created for CSC 330. The app allows students to register with a Southern email, create listings, browse items, save favorites, message other students, and report listings for moderation.
+
+**My role:** Backend workflows, listing logic, and route implementation  
+**Tech used:** Flask, SQLite, HTML, CSS  
+**Repository:** [Campus Closet](https://github.com/shree3p/Campus-Closet-)  
+
+*Team project hosted on a teammate's GitHub repository.*
 
 ### Gym Workout Planner
 A full-stack workout planning application built to help users organize exercises, workouts, and fitness routines.
