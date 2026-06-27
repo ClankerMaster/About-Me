@@ -1,5 +1,3 @@
-# About-Me
-
 # Hi, I'm Shiv Patel
 
 I'm a Computer Science student at Southern Connecticut State University, focused on building practical software projects and growing toward entry-level roles in software development, IT, cybersecurity, and cloud/security-related technology.
